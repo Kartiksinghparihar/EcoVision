@@ -1,0 +1,42 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+dist/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated build files
+.output/
+.wrangler/
+coverage/
+
+# Python model weights (upload separately)
+backend/models/*.pt
+backend/models/*.pth
+
+# Local captures and test images
+captures/
+test_*.jpg
+camera_test.jpg
+fresh_test.jpg
+
+# Local archives
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# YOLO generated outputs and test images
+backend/runs/
+backend/*_test.jpg
+backend/*_test.webp
