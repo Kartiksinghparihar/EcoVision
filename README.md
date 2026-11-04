@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="public/videos/wildlife-bg.mp4" width="100%" alt="EcoVision Wildlife Monitoring"/>
+<img src="public/WhatsApp Image 2026-11-04 at 11.27.21 AM.jpeg" width="100%" alt="EcoVision Wildlife Monitoring"/>
 
 <br/><br/>
 
